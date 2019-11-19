@@ -1,6 +1,8 @@
 # Starter Web Repo
 
-stash
+s
+
+applytash
 
 This repository is for showing how Git and GitHub work
 
